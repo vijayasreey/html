@@ -1,0 +1,22 @@
+h1{
+    color: red;
+    text-align: center;
+    border-style: dotted;
+    
+}
+body{
+     background-size: cover;
+}
+#image1 
+ {
+    float: right;
+    height: 50cm;
+    width: 50  cm;
+ }
+.image2{
+    border-style: dotted;
+}
+h1,h2,h3{
+    background-color: blue ;
+
+}
